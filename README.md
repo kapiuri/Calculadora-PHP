@@ -1,2 +1,3 @@
-# Calculadora-PHP
-Calculadora PHP avanzada
+#  PHP Calculator
+
+Advanced PHP Calculator
