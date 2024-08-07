@@ -41,7 +41,7 @@ La calculadora soporta las siguientes operaciones y funciones matemáticas:
 
 ## Código
 
-### Archivo PHP (`calculadora.php`)
+### Archivo PHP (`index.php`)
 
 - **Inicialización**:
   - Las variables `$operacion` y `$resultado` se utilizan para almacenar la operación actual y el resultado, respectivamente.
